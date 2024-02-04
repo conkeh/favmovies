@@ -105,11 +105,10 @@ button:hover {
   background-color: #ef4b3f;
 }
 @media screen and (max-width: 600px) {
- .hamburger{
-  display: block;
- }
-  
+  .hamburger {
+    display: block;
   }
+
   h1 {
     margin-top: 40px;
     width: 100%;
