@@ -127,4 +127,8 @@ button:hover {
     object-fit: contain;
     max-width: 80%;
   }
+  .bottom-white {
+    height: 100%;
+    display: grid;
+  }
 }
