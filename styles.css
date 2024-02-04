@@ -105,7 +105,7 @@ button:hover {
   background-color: #ef4b3f;
 }
 @media screen and (max-width: 600px) {
-  .menu {
+  .menu li {
     display: none;
   }
   .hamburger {
