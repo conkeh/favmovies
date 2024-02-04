@@ -109,9 +109,8 @@ button:hover {
   }
   .hamburger {
     display: block;
-    position: absolute;
     top: 8px;
-    right: 80px;
+    right: 150px;
   }
   h1 {
     margin-top: 40px;
