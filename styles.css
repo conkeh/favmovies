@@ -105,7 +105,8 @@ button:hover {
 }
 @media screen and (max-width: 600px) {
  .menu li{
-  padding: 15px 3px;
+  padding: 3px;
+  margin-right: 20px;
  }
 
   
