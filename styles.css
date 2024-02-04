@@ -105,8 +105,12 @@ button:hover {
   background-color: #ef4b3f;
 }
 @media screen and (max-width: 600px) {
+  .menu {
+    display: none;
+  }
   .hamburger {
     display: block;
+    position: absolute;
   }
 
   h1 {
