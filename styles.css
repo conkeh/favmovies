@@ -30,6 +30,7 @@ nav a:hover {
 
 .menu {
   display: flex;
+  justify-content: space-between;
   list-style: none;
 }
 .menu li {
@@ -104,12 +105,9 @@ button:hover {
   background-color: #ef4b3f;
 }
 @media screen and (max-width: 600px) {
- .menu li{
-  padding: 20px;
-  
-  text-align: center;
+ .hamburger{
+  display: block;
  }
-
   
   }
   h1 {
