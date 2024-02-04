@@ -1,0 +1,1 @@
+alert("VOTE ME, IF YOU LIKE MY PAGE, THANKS!!!");
